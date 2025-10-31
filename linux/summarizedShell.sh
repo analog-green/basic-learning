@@ -43,7 +43,7 @@ echo 'TEST_DYNAMIC_VAR="$TEST_DYNAMIC_VAR"';
 echo 'TEST_DYNAMIC_VAR=$TEST_DYNAMIC_VAR';
 echo "TEST_DYNAMIC_VAR=$TEST_DYNAMIC_VAR";
 echo "";
-echo "(TIP) 전체를 작은따옴표(')로 감싸면, 에디터에서 본 그대로. 이때, 변수는 큰따옴표로 감싸야"
+echo "(TIP) 전체를 작은따옴표(')로 감싸면, 에디터에서 본 그대로이니 변수값이 출력되려면 전체를 큰따옴표로 감싸야"
 echo "----------------------------------------"
 
 
